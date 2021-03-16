@@ -1,3 +1,11 @@
 body{
     background: #BDBDBD;
 }
+.jumbotron{
+    height: 600px;
+    padding: 0;
+    background-image: url(https://mdbcdn.b-cdn.net/img/new/slides/003.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 600px;
+    object-fit: cover;
+}
